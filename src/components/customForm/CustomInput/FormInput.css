@@ -1,0 +1,21 @@
+.form-control {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-control label {
+  margin-bottom: 0.3rem;
+  font-weight: 500;
+}
+
+.form-control input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.error {
+  color: red;
+  font-size: 0.8rem;
+}
